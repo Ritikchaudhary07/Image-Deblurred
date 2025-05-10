@@ -25,8 +25,6 @@ cd image_deblurMajor
 pip install -r requirements.txt
 ```
 
-3. Download the pretrained model from [Google Drive](https://drive.google.com/file/d/1-0C7FdQ5P8_5FEK3qM1uWZAJmXYD2Dm_/view?usp=sharing) and place it in `CMFNet/pretrained_model/deblur_model.pth`
-
 ## Usage
 
 1. Start the Flask API:
